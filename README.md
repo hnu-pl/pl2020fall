@@ -11,4 +11,4 @@ Programming Languages course @ HNU CE undergrad
 
 참고자료
 * [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/), by Benjamin C. Pierce, The MIT Press
-* [Practical Foundations for Programming Languages (Second Edition)](https://www.cs.cmu.edu/~rwh/pfpl/), by Robert Harper. Cambridge University Press.
+* [Practical Foundations for Programming Languages (Second Edition)](https://www.cs.cmu.edu/~rwh/pfpl/), by Robert Harper, Cambridge University Press.
