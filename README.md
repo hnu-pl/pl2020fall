@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hnu-pl/pl2020fall/master?urlpath=lab)
+[![NBviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/hnu-pl/pl2020fall/tree/master/)
+
 # PL course @ HNU CE undergrad
 Programming Languages course @ HNU CE undergrad
 
