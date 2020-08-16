@@ -20,9 +20,6 @@ Programming Languages course @ HNU CE undergrad
 
 ## Links
 
-
-## Links
-
 ### about Docker and WSL 2
 Windows 10 build 2004 (or preview releases via Windows Insider Program) supporting WSL 2
 * [Docker가 뭐고 왜 쓰는건가요?](https://youtu.be/tPjpcsgxgWc) -- *얄팍한 코딩사전* on YouTube
