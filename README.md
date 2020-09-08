@@ -43,7 +43,8 @@ Blog posts
     - 지금은 위 블로그 글에서처럼 *window 참가자 프로그램을 설정*을 하지 않아도 일반 Windows 10 최신 업데이트(버전 2004, 빌드 19041 이상)에서 WSL 2가 지원되고 있다. 
     - 이 수업에서는 활용하지 않으므료 *쿠버네티스*(Kubernetis)는 설치하지 않아도 상관없다.
 * [Using WSL2 in a Docker Linux container on Windows to run a Minecraft Java Edition](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/using-wsl2-in-a-docker-linux-container-on-windows-to-run-a/ba-p/1482133)
-    - 마찬가지로 지금은 Windows 10 최신 업데이트에서 WSL 2가 지원되므로 위 블로그 글에 나온 3가지 설치 방법 중에서 WSL 수동 설치 프로그램이 아닌 GUI로 설치하거나 wsl --install 명령어로 설치하거나 하는 다른 두 방버 중 하나로 설치하면 됨
+    - 마찬가지로 지금은 Windows 10 최신 업데이트에서 WSL 2가 지원되므로 위 블로그 글에 나온 3가지 설치 방법 중에서 WSL 수동 설치 프로그램이 아닌 GUI로 설치하거나 wsl --install 명령어로 설치하거나 하는 다른 두 방법 중 하나로 설치하면 됨
+* [WSL 2(Windows Subsystem For Linux 2) 정식 버전 사용하기](https://www.lesstif.com/software-architect/wsl-2-windows-subsystem-for-linux-2-89555812.html)
 
 ### on Programming Paradigms
 * [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y) -- *얄팍한 코딩사전* on YouTube
