@@ -46,6 +46,7 @@ Blog posts
     - 이 수업에서는 활용하지 않으므료 *쿠버네티스*(Kubernetis)는 설치하지 않아도 상관없다.
 * [Using WSL2 in a Docker Linux container on Windows to run a Minecraft Java Edition](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/using-wsl2-in-a-docker-linux-container-on-windows-to-run-a/ba-p/1482133)
     - 마찬가지로 지금은 Windows 10 최신 업데이트에서 WSL 2가 지원되므로 위 블로그 글에 나온 3가지 설치 방법 중에서 WSL 수동 설치 프로그램이 아닌 GUI로 설치하거나 wsl --install 명령어로 설치하거나 하는 다른 두 방법 중 하나로 설치하면 됨
-
+* [wsl2 기반으로 Docker Desktop 설정하기](https://bitlog.tistory.com/83)
+    - 위에 두 개보다 간단하게 핵심만 정리하고 있는 블로그 글. WSL2에 배포판(우분투 등)도 설치가 따로 잘 되었고 Docker Desktop도 설치가 잘 되고 난 후 연동하는 설정에 대한 설명입니다.
 ### on Programming Paradigms
 * [함수형 프로그래밍이 뭔가요?](https://youtu.be/jVG5jvOzu9Y) -- *얄팍한 코딩사전* on YouTube
