@@ -20,7 +20,7 @@ Programming Languages course @ HNU CE undergrad
 
 ## Programming languages and related tools for course activities
 - [Haskell](https://www.haskell.org/) with [Jupyter notebook](https://jupyter.org/)
-   using [a Docker image] based on the [ihaskell-notebook](https://github.com/jamesdbrock/ihaskell-notebook)
+   using [a Docker image](https://hub.docker.com/layers/kyagrd/ihaskell/pl2020/images/sha256-0727059dc010c3c3a1a852cac87563fe6a5675f7979a96f5524232ad6b6ef160?context=explore) based on the [ihaskell-notebook](https://github.com/jamesdbrock/ihaskell-notebook)
    running [IHaskell](https://github.com/gibiansky/IHaskell) kernel.
 - For others, see the second textbook.
 
